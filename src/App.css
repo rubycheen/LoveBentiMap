@@ -47,3 +47,20 @@
   border: transparent;
   font-size: large;
 }
+
+.popupCustom .leaflet-popup-tip {
+  display: none;
+}
+
+.popupCustom .leaflet-popup-close-button {
+  display: none;
+}
+
+/* .popupCustom .leaflet-popup-content-wrapper { */
+  /* background: transparent; */
+  /* color: transparent; */
+/* } */
+
+/* .popupCustom .leaflet-popup-content-wrapper .leaflet-popup-content { */
+  /* margin: 0; */
+/* } */
